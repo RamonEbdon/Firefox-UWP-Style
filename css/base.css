@@ -608,6 +608,7 @@ notification {
 	border-radius: 0px !important;
 	background-color: var(--uwp-autocomplete-list) !important;
 	box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, .32) !important;
+	color: var(--uwp-titlebar) !important; 
 }
 .pointerlockfswarning[ontop] {
 	transform: translate(-50%, 10px) !important;
